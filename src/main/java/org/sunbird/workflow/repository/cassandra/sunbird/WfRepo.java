@@ -1,4 +1,4 @@
-package org.sunbird.workflow.repository.cassandra.bodhi;
+package org.sunbird.workflow.repository.cassandra.sunbird;
 
 
 import org.springframework.data.cassandra.repository.CassandraRepository;
